@@ -1,3 +1,6 @@
+![CI](https://github.com/ShantanuP108/url-shortener/actions/workflows/ci.yml/badge.svg)
+
+
 # 🚀 Project Overview – URL Shortener
 
 ## 🧠 What is this?
